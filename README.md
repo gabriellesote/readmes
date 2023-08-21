@@ -1,3 +1,6 @@
+<details open> 
+  <summary><h2>🌠 Default readme </h2></summary>
+  
   <h1 align="center"> nome do projeto </h1>
 
 <p align="center">
@@ -61,10 +64,14 @@ As ferramentas aplicadas neste site foram:
 
 - README: Hero Patterns for Figma [by @tkmadeit](https://www.figma.com/@tkmadeit)
 
+</details> 
+
 ---
 
-# outras ferramentas: 
+<details open> 
+  <summary><h2>🌠 Outras ferramentas</h2></summary>
 
+  
 <h1 align="center">Hi 👋, I'm Gabi</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
@@ -92,9 +99,23 @@ As ferramentas aplicadas neste site foram:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellesote&" alt="gabriellesote" /></p>
 
+</details>
 
+<details open> 
+  <summary><h2>🌠Imagens dos readmes </h2></summary>
+     <p><img  src="https://github.com/gabriellesote/readmes/blob/main/sunflower-rm.png?raw=true" alt="sunflower login" /></p>
+     <p><img align="right" src="https://github.com/gabriellesote/readmes/blob/main/cat%20login.png?raw=true" alt="dark cat login" /></p>
+     <p><img align="center" src="https://github.com/gabriellesote/readmes/blob/main/android%20project.png?raw=true" alt="android"/></p>
+     <p><img align="center" src="https://github.com/gabriellesote/readmes/blob/main/iframe%20project.png" alt="iframe" /></p>
+     <p><img align="center" src="https://github.com/gabriellesote/readmes/blob/main/pokedex.png" alt="pokedex" /></p>
+     <p><img align="center" src="https://github.com/gabriellesote/readmes/blob/main/weather%20project.png" alt="weather"/></p>
+     <p><img align="center" src="https://github.com/gabriellesote/readmes/blob/main/Modern%20Cordel.png?raw=true" alt="cordel moderno" /></p>
+     <p><img align="center" src="https://github.com/gabriellesote/readmes/blob/main/devlinks-rm.jpg?raw=true" alt="dev links" /></p>
+     <p><img align="center" src="https://github.com/gabriellesote/readmes/blob/main/track.png" alt="study track" /></p>
 
+  
+     
 
-
+</details>
 
 
